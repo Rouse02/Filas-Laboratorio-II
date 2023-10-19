@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1696600284 source:c:\users\rocio\onedrive\escritorio\colas con ld\guía de filas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<malloc.h>
+	<string.h>
+
+1696619288 source:c:\users\rocio\onedrive\escritorio\guía filas con ld\guía de filas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<malloc.h>
+	<string.h>
+
